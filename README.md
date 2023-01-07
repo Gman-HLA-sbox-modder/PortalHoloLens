@@ -4,9 +4,11 @@ The project is working now with the last version of Unity.
 
 All 3D models and sound effects belong to Valve Corporation.
 
-- Demo developed by Kennywdev
+- Original Demo developed by Kennywdev
 
+# NOTE: 
 
+This was not made by me. I also can't publish the source code because GitHub is stupid and wont let me. I will publish packages and shit tho.
 
 # Instructions:
 
