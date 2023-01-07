@@ -8,7 +8,7 @@ All 3D models and sound effects belong to Valve Corporation.
 
 # NOTE: 
 
-This was not made by me. I also can't publish the source code because GitHub is stupid and wont let me. I will publish packages and shit tho.
+This was not made by me. I also can't publish the source code because GitHub is stupid and wont let me. I will publish packages and shit tho to the releases tab.
 
 # Instructions:
 
